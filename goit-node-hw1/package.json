@@ -1,7 +1,7 @@
 {
   "name": "goit-nodejs-hw01",
   "version": "1.0.0",
-  "description": "This is an example of a nod project",
+  "description": "This is an example of a nodejs project",
   "main": "index.js",
   "type": "module",
   "scripts": {
